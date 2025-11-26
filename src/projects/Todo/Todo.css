@@ -4,6 +4,9 @@
   display: flex;
   justify-content: center;
 } */
+ body{
+  display: unset;
+ }
 
 .todo-container {
   align-items: center;
